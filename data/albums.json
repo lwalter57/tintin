@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Tintin le secret de la licorne",
+        "numero": 0,
+        "year": 1931,
+        "yearInColor": 1946,
+        "image": "assets/album_tintin_0.jpg",
+        "resume": "Tintin chez les licornes"
+    },
+    {
+        "title": "Tintin au pays des soviets",
+        "numero": 1,
+        "year": 1932,
+        "yearInColor": 1945,
+        "image": "assets/album_tintin_1.jpg",
+        "resume": "Tintin part en sovietsky à prendre avec des pincettes"
+    },
+    {
+        "title": "Tintin au Congo",
+        "numero": 2,
+        "year": 1931,
+        "yearInColor": 1946,
+        "image": "assets/album_tintin_2.jpg",
+        "resume": "Tintin au Congo va rencontré les giraffes et giraffons"
+    },
+    {
+        "title": "Tintin en Amérique",
+        "numero": 3,
+        "year": 1932,
+        "yearInColor": 1945,
+        "image": "assets/album_tintin_3.jpg",
+        "resume": "awooooawoooawooooawoooo"
+    },
+    {
+        "title": "Tintin les cigares du pharaon",
+        "numero": 4,
+        "year": 1931,
+        "yearInColor": 1946,
+        "image": "assets/album_tintin_4.jpg",
+        "resume": "Tintin a tout fumé Tontankamon hurle de colère"
+    },
+    {
+        "title": "Tintin le lotus bleu",
+        "numero": 5,
+        "year": 1932,
+        "yearInColor": 1945,
+        "image": "assets/album_tintin_5.jpg",
+        "resume": "Finalement le lotus est un dragon noir"
+    },
+    {
+        "title": "Tintin l'oreille cassée",
+        "numero": 6,
+        "year": 1931,
+        "yearInColor": 1946,
+        "image": "assets/album_tintin_6.jpg",
+        "resume": "Tintin se casse l'oreille et doit rentrer en barque car il ne peux plus prendre l'avion."
+    },
+    {
+        "title": "Tintin l'île noire",
+        "numero": 7,
+        "year": 1932,
+        "yearInColor": 1945,
+        "image": "assets/album_tintin_7.jpg",
+        "resume": "Découverte d'une île sombre pour notre ami le blondinet"
+    },
+    {
+        "title": "Tintin le sceptre d'ottokar",
+        "numero": 8,
+        "year": 1931,
+        "yearInColor": 1946,
+        "image": "assets/album_tintin_8.jpg",
+        "resume": "Tintin va chercher en sceptre en forme de bus (autocar)"
+    },
+    {
+        "title": "Tintin le crabe au pince d'or",
+        "numero": 9,
+        "year": 1932,
+        "yearInColor": 1945,
+        "image": "assets/album_tintin_9.jpg",
+        "resume": "Imaginez le prix du restaurant qui cuisine des pinces en or"
+    }
+]
