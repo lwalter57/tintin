@@ -10,7 +10,7 @@ class AlbumsMaster extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Albums'),
+        title: const Text('Les albums de tintin'),
       ),
       body: FutureBuilder<List<Album>>(
         future: AlbumService.genareRandAlbums(),
@@ -34,3 +34,4 @@ class AlbumsMaster extends StatelessWidget {
     );
   }
 }
+2
